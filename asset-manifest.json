@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/throneroom/static/css/main.073c9b0a.css",
+    "main.js": "/throneroom/static/js/main.8426262b.js",
+    "static/js/787.358ac021.chunk.js": "/throneroom/static/js/787.358ac021.chunk.js",
+    "static/media/logo.svg": "/throneroom/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/throneroom/index.html",
+    "main.073c9b0a.css.map": "/throneroom/static/css/main.073c9b0a.css.map",
+    "main.8426262b.js.map": "/throneroom/static/js/main.8426262b.js.map",
+    "787.358ac021.chunk.js.map": "/throneroom/static/js/787.358ac021.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.8426262b.js"
+  ]
+}
